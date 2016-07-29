@@ -15,6 +15,8 @@
 		6045DA511D4B099B00434566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6045DA4F1D4B099B00434566 /* LaunchScreen.storyboard */; };
 		6045DA5C1D4B099B00434566 /* UniversalApplicationsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6045DA5B1D4B099B00434566 /* UniversalApplicationsTests.m */; };
 		6045DA671D4B099B00434566 /* UniversalApplicationsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6045DA661D4B099B00434566 /* UniversalApplicationsUITests.m */; };
+		6045DA751D4B0ACF00434566 /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6045DA741D4B0ACF00434566 /* ViewController_iPhone.xib */; };
+		6045DA771D4B0C0000434566 /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6045DA761D4B0C0000434566 /* ViewController_iPad.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		6045DA621D4B099B00434566 /* UniversalApplicationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UniversalApplicationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6045DA661D4B099B00434566 /* UniversalApplicationsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UniversalApplicationsUITests.m; sourceTree = "<group>"; };
 		6045DA681D4B099B00434566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6045DA741D4B0ACF00434566 /* ViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController_iPhone.xib; sourceTree = "<group>"; };
+		6045DA761D4B0C0000434566 /* ViewController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController_iPad.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				6045DA471D4B099B00434566 /* ViewController.h */,
 				6045DA481D4B099B00434566 /* ViewController.m */,
 				6045DA4A1D4B099B00434566 /* Main.storyboard */,
+				6045DA741D4B0ACF00434566 /* ViewController_iPhone.xib */,
+				6045DA761D4B0C0000434566 /* ViewController_iPad.xib */,
 				6045DA4D1D4B099B00434566 /* Assets.xcassets */,
 				6045DA4F1D4B099B00434566 /* LaunchScreen.storyboard */,
 				6045DA521D4B099B00434566 /* Info.plist */,
@@ -246,6 +252,8 @@
 				6045DA511D4B099B00434566 /* LaunchScreen.storyboard in Resources */,
 				6045DA4E1D4B099B00434566 /* Assets.xcassets in Resources */,
 				6045DA4C1D4B099B00434566 /* Main.storyboard in Resources */,
+				6045DA771D4B0C0000434566 /* ViewController_iPad.xib in Resources */,
+				6045DA751D4B0ACF00434566 /* ViewController_iPhone.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
